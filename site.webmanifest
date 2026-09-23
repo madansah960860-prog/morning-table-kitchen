@@ -1,0 +1,22 @@
+{
+  "name": "Morning Table Kitchen Goods",
+  "short_name": "Morning Table",
+  "description": "Kitchen tools listed with weight, handle width, and whether they work one-handed.",
+  "start_url": "/",
+  "display": "browser",
+  "background_color": "#FFFFFF",
+  "theme_color": "#2C5A88",
+  "lang": "en-US",
+  "icons": [
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
